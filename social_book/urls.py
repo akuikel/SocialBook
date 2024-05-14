@@ -1,5 +1,8 @@
 """social_book URL Configuration
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3406665d12657f3e50966f6e0d60891ea0411ce8
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
 Examples:

@@ -39,4 +39,11 @@ class FollowersCount(models.Model):
     user = models.CharField(max_length=100)
 
     def __str__(self):
+<<<<<<< HEAD
         return self.user
+=======
+        return self.user
+    
+    
+  
+>>>>>>> 3406665d12657f3e50966f6e0d60891ea0411ce8
